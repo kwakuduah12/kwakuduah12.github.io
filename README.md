@@ -9,13 +9,17 @@ I'm a junior computer science student with a strong passion to change the narrat
 ## My Expertise
 
 ### Web Development
-I specialize in creating responsive and visually appealing websites using HTML, CSS, and JavaScript. My expertise includes developing dynamic interfaces with React and Angular, and ensuring responsive design with Bootstrap. These technologies allow me to build scalable and maintainable web applications that provide an excellent user experience.
+![Web Development](https://img.icons8.com/ios-filled/50/000000/code.png)
+I specialize in creating responsive and visually appealing websites using HTML, CSS, and JavaScript.
 
 ### Python Development
-Leveraging Python's simplicity and versatility, I develop efficient and innovative software solutions. I have experience in core Python programming, web development with Flask and Django, data manipulation and analysis using Pandas and NumPy, database management with SQLAlchemy, and ensuring code quality with unit testing. These skills enable me to build robust and reliable applications.
+![Python Development](https://img.icons8.com/ios-filled/50/000000/python.png)
+Leveraging Python's simplicity and versatility, I develop efficient and innovative software solutions.
 
 ### Native App Development
-I create engaging and user-friendly mobile applications for both iOS and Android platforms. My proficiency includes developing native iOS apps with Swift, native Android apps with Kotlin, and cross-platform apps with React Native and Flutter. Additionally, I utilize Firebase for implementing backend services, which helps in building comprehensive and efficient mobile solutions.
+![Native App Development](https://img.icons8.com/ios-filled/50/000000/mobile.png)
+I create engaging and user-friendly mobile applications for both iOS and Android platforms.
+
 
 ## Project Portfolio
 
@@ -57,3 +61,15 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 ---
 &copy; Philip Kwaku Duah De-Graft. Design: [HTML5 UP](https://html5up.net)
+
+
+<!-- ## My Expertise
+
+### Web Development
+I specialize in creating responsive and visually appealing websites using HTML, CSS, and JavaScript. My expertise includes developing dynamic interfaces with React and Angular, and ensuring responsive design with Bootstrap. These technologies allow me to build scalable and maintainable web applications that provide an excellent user experience.
+
+### Python Development
+Leveraging Python's simplicity and versatility, I develop efficient and innovative software solutions. I have experience in core Python programming, web development with Flask and Django, data manipulation and analysis using Pandas and NumPy, database management with SQLAlchemy, and ensuring code quality with unit testing. These skills enable me to build robust and reliable applications.
+
+### Native App Development
+I create engaging and user-friendly mobile applications for both iOS and Android platforms. My proficiency includes developing native iOS apps with Swift, native Android apps with Kotlin, and cross-platform apps with React Native and Flutter. Additionally, I utilize Firebase for implementing backend services, which helps in building comprehensive and efficient mobile solutions. -->
